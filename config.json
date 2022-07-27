@@ -1,0 +1,6 @@
+{
+    "token": "token bot",
+    "prefix": "!",
+    "owner_id": "your id",
+    "logs_channel": "channel id"
+}
